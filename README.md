@@ -6,6 +6,10 @@ Real estate acquisitions, developments and operating-asset decisions often requi
 
 Clients bring the question and the materials. They do not need to understand agents, skills, models, or internal workflows. The system organizes relevant professional work and returns a client-readable decision package.
 
+**Verified real-case evidence:** in a U.S. select-service hotel acquisition screening, the system returned **MORE DILIGENCE REQUIRED**, kept underwriting **BLOCKED**, and preserved **11 material unresolved facts** rather than forcing a premature investment conclusion. [View the public-safe case](CASES.md).
+
+**Bring a live acquisition, development, or asset question for a bounded pilot.**
+
 ## Supported work
 
 - Acquisition Screening
@@ -74,3 +78,7 @@ Public documentation intentionally omits proprietary routing logic, handoff mech
 - [Models](MODELS.md)
 - [Public-safe case](CASES.md)
 - [Development](DEVELOPMENT.md)
+
+---
+
+**Have a live real-estate decision to test? Bring the question and available project materials for a bounded pilot.**
