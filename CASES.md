@@ -1,11 +1,48 @@
-# Public-safe case: U.S. select-service hotel acquisition screening
+# Real Case — U.S. Select-Service Hotel Acquisition Screening
 
-A buyer considered the acquisition of an operating U.S. select-service hotel. The public-safe result was **MORE DILIGENCE REQUIRED**; underwriting was **BLOCKED** because the material available did not support a responsible acquisition conclusion.
+## The decision
 
-The screening identified **11 material unresolved facts**, decomposed the seller thesis and organized an Evidence-to-Decision Matrix. The matrix connected future evidence to potential actions: continue, reprice, restructure, reopen, or decline.
+A buyer was considering the acquisition of an operating U.S. select-service hotel.
 
-The resulting institutional deliverable included the decision state, rationale, seller-thesis analysis, material risks, unresolved gaps, prioritized diligence, available paths and reopen conditions. A client-readable PDF was generated with traceability to the stated decision basis.
+The question was not simply whether a headline return looked attractive.
 
-This case does not identify the client, asset, address, private evidence, internal paths, underlying source materials or complete execution data.
+The real question was whether the available evidence supported a responsible acquisition decision and what had to happen next.
 
-It demonstrates real-case workflow and deliverable operation. It does not establish autonomous investment authority, universal expert-level equivalence, independently validated professional effectiveness, commercial ROI, or fully autonomous end-to-end live external research.
+## What the system found
+
+The available materials were sufficient to begin professional screening, but not sufficient for responsible underwriting closure.
+
+The system preserved **11 material unresolved facts** across operating history, financing assumptions, physical condition, franchise obligations, market positioning, property-data consistency and legal / jurisdiction questions.
+
+## Decision
+
+**MORE DILIGENCE REQUIRED**
+
+Underwriting:
+
+**BLOCKED**
+
+This was not treated as failure to answer.
+
+It was the decision supported by the available evidence.
+
+## What happened next
+
+The system built an evidence-to-decision structure connecting future evidence to actions such as:
+
+- continue;
+- reprice;
+- restructure;
+- request further diligence;
+- reopen professional work;
+- decline.
+
+A client-readable decision package was generated with the decision rationale, seller-thesis analysis, risks, evidence gaps, prioritized diligence, next actions and reopen conditions.
+
+## Why this case matters
+
+The system did not manufacture certainty from incomplete evidence.
+
+It identified what mattered, preserved the blockers and converted uncertainty into a concrete diligence and action plan.
+
+Private client, asset and source materials are not published here.
