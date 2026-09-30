@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+<title id="title">Real Estate Expert System</title>
+<desc id="desc">Public system map showing project materials flowing through evidence, professional work, judgment and action, with business value outcomes.</desc>
+<style>
+.bg{fill:#0d1117}.box{fill:#161b22;stroke:#30363d;stroke-width:2}.core{fill:#1f6feb;stroke:#58a6ff;stroke-width:2}.value{fill:#173b2b;stroke:#3fb950;stroke-width:2}.role{fill:#21262d;stroke:#8b949e;stroke-width:1.5}
+.t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;fill:#f0f6fc}.muted{fill:#8b949e}.small{font-size:17px}.mid{font-size:21px;font-weight:600}.big{font-size:34px;font-weight:700}.line{stroke:#8b949e;stroke-width:2.2;fill:none}.arrow{marker-end:url(#arrow)}
+</style>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#8b949e"/></marker></defs>
+<rect class="bg" width="1400" height="820" rx="22"/>
+<text class="t big" x="70" y="70">Real Estate Expert System</text>
+<text class="t small muted" x="70" y="103">One real estate decision. One coordinated professional system.</text>
+
+<rect class="box" x="70" y="165" width="210" height="90" rx="15"/><text class="t mid" x="175" y="201" text-anchor="middle">Project question</text><text class="t small" x="175" y="228" text-anchor="middle">+ materials</text>
+<rect class="core" x="335" y="165" width="210" height="90" rx="15"/><text class="t mid" x="440" y="201" text-anchor="middle">Evidence</text><text class="t small" x="440" y="228" text-anchor="middle">facts · assumptions · gaps</text>
+<rect class="core" x="600" y="165" width="210" height="90" rx="15"/><text class="t mid" x="705" y="201" text-anchor="middle">Professional work</text><text class="t small" x="705" y="228" text-anchor="middle">relevant expertise + models</text>
+<rect class="core" x="865" y="165" width="210" height="90" rx="15"/><text class="t mid" x="970" y="201" text-anchor="middle">Judgment</text><text class="t small" x="970" y="228" text-anchor="middle">one decision state</text>
+<rect class="value" x="1130" y="165" width="210" height="90" rx="15"/><text class="t mid" x="1235" y="201" text-anchor="middle">Action</text><text class="t small" x="1235" y="228" text-anchor="middle">next steps + report</text>
+<path class="line arrow" d="M280 210 H325"/><path class="line arrow" d="M545 210 H590"/><path class="line arrow" d="M810 210 H855"/><path class="line arrow" d="M1075 210 H1120"/>
+
+<text class="t mid" x="70" y="340">Professional capabilities</text>
+<rect class="role" x="70" y="375" width="240" height="72" rx="13"/><text class="t small" x="190" y="419" text-anchor="middle">Investment / Decision</text>
+<rect class="role" x="335" y="375" width="240" height="72" rx="13"/><text class="t small" x="455" y="419" text-anchor="middle">Underwriting / Models</text>
+<rect class="role" x="600" y="375" width="240" height="72" rx="13"/><text class="t small" x="720" y="419" text-anchor="middle">Valuation / Finance</text>
+<rect class="role" x="865" y="375" width="240" height="72" rx="13"/><text class="t small" x="985" y="419" text-anchor="middle">Market / Commercial</text>
+<rect class="role" x="1130" y="375" width="210" height="72" rx="13"/><text class="t small" x="1235" y="419" text-anchor="middle">Legal / Policy</text>
+
+<rect class="role" x="205" y="475" width="240" height="72" rx="13"/><text class="t small" x="325" y="519" text-anchor="middle">Development / Cost</text>
+<rect class="role" x="580" y="475" width="240" height="72" rx="13"/><text class="t small" x="700" y="519" text-anchor="middle">Asset / Hotel Operations</text>
+<rect class="role" x="955" y="475" width="240" height="72" rx="13"/><text class="t small" x="1075" y="519" text-anchor="middle">Senior Management</text>
+
+<text class="t mid" x="70" y="635">Business value</text>
+<rect class="value" x="70" y="670" width="270" height="90" rx="15"/><text class="t mid" x="205" y="706" text-anchor="middle">Less manual work</text><text class="t small muted" x="205" y="733" text-anchor="middle">review · modeling · reporting</text>
+<rect class="value" x="375" y="670" width="270" height="90" rx="15"/><text class="t mid" x="510" y="706" text-anchor="middle">Faster decisions</text><text class="t small muted" x="510" y="733" text-anchor="middle">one coordinated process</text>
+<rect class="value" x="680" y="670" width="270" height="90" rx="15"/><text class="t mid" x="815" y="706" text-anchor="middle">Earlier risk</text><text class="t small muted" x="815" y="733" text-anchor="middle">gaps · blockers · weak assumptions</text>
+<rect class="value" x="985" y="670" width="270" height="90" rx="15"/><text class="t mid" x="1120" y="706" text-anchor="middle">More value paths</text><text class="t small muted" x="1120" y="733" text-anchor="middle">reprice · restructure · reposition</text>
+</svg>
