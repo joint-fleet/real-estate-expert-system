@@ -1,25 +1,60 @@
 # Real Estate Expert System
 
-## One real estate question can require an entire professional team
+**One real estate decision. One coordinated professional system.**
 
-Real estate acquisitions, developments and operating-asset decisions often require investment, underwriting, valuation, finance, market, legal, development, operations and senior-management judgment to work together. This system is designed to organize that professional work around one real commercial question.
+Real estate decisions rarely belong to one discipline. Acquisition, development, refinancing, repositioning, operating assets and diligence can require investment, underwriting, valuation, finance, market, legal, development, operations and senior-management judgment to work together.
 
-Clients bring the question and the materials. They do not need to understand agents, skills, models, or internal workflows. The system organizes relevant professional work and returns a client-readable decision package.
+This system organizes that work around the decision the client actually needs to make.
 
-**Verified real-case evidence:** in a U.S. select-service hotel acquisition screening, the system returned **MORE DILIGENCE REQUIRED**, kept underwriting **BLOCKED**, and preserved **11 material unresolved facts** rather than forcing a premature investment conclusion. [View the public-safe case](CASES.md).
+The client brings:
 
-**Bring a live acquisition, development, or asset question for a bounded pilot.**
+**a real question + available project materials**
 
-## Supported work
+The system returns:
 
-- Acquisition Screening
-- Development Feasibility
-- Hold / Sell / Refinance
-- Hotel / Operating Asset Review
-- Diligence & Risk Review
-- Custom Professional Workflow
+**evidence → professional analysis → judgment → next actions → client-ready deliverable**
 
-## Professional roles
+<p align="center">
+  <img src="assets/real-estate-system-map.svg" alt="Real Estate Expert System map" width="100%"/>
+</p>
+
+## Why this is different
+
+This is not a chatbot that gives one answer.
+
+It is not a fixed underwriting template.
+
+It is not nine specialist reports stitched together.
+
+The system is designed to identify the decision, bring in only the professional work that matters, keep missing evidence visible, stop unsupported analysis, synthesize one decision state and explain what happens next.
+
+## Business value
+
+**Reduce professional labor.** Move document review, issue spotting, evidence organization, repeated analysis, model preparation and report assembly into a reusable system.
+
+**Shorten screening and diligence cycles.** Bring fragmented work into one decision process.
+
+**Expose expensive mistakes earlier.** Weak assumptions, missing evidence and decision blockers remain visible.
+
+**Discover more value paths.** Test reprice, restructure, refinance, reposition, hold, sell, operate or exit alternatives instead of only asking whether a deal passes.
+
+**Increase team capacity.** Let a smaller team handle more decisions without recreating a full specialist group for every asset.
+
+**Preserve decision memory.** Keep the facts, assumptions, failed paths, changed judgments and reopen conditions attached to the case.
+
+## Supported decisions
+
+- Acquisition screening
+- Development feasibility
+- Hold / sell / refinance
+- Hotel and operating-asset review
+- Diligence and risk review
+- Repositioning and value-creation analysis
+- Custom institutional real-estate workflows
+
+## Professional capabilities
+
+The system can organize work across:
 
 1. Investment / Decision Lead
 2. Underwriting & Model Strategy
@@ -31,54 +66,72 @@ Clients bring the question and the materials. They do not need to understand age
 8. Asset / Hotel Operations
 9. Investment Committee / Senior Management Judgment
 
-The relevant roles are brought together around the commercial question; the client receives one integrated result rather than a collection of disconnected specialist notes.
+The client receives one integrated decision package rather than disconnected specialist notes.
 
-## What the client receives
+## What comes back
 
-A decision package can include:
+Depending on the case, a decision package can include:
 
 - decision state and rationale;
-- deal thesis;
-- assumptions;
-- models and scenarios where appropriate;
-- risks;
-- unresolved gaps;
+- deal thesis and thesis-breakers;
+- facts, assumptions and unresolved evidence;
+- valuation, cash-flow, debt or development scenarios;
+- material legal, market, cost and operating risks;
 - prioritized diligence;
-- reprice, restructure, hold, sell, refinance, or exit options;
-- reopen conditions; and
-- traceability from the decision package back to its stated basis.
+- reprice, restructure, refinance, reposition or exit paths;
+- next actions;
+- reopen conditions;
+- a client-readable report.
 
-## Current capability boundary
+## Real case
 
-Established in real-case execution:
+A U.S. select-service hotel acquisition screening returned:
 
-- formal controlled runtime established;
-- long-session workflow running;
-- dynamic professional participation;
-- evidence-gap tracking;
-- institutional-style decision packages; and
-- client-readable PDF generation.
+**MORE DILIGENCE REQUIRED**
 
-Not yet claimed as complete:
+Underwriting remained:
 
-- independent professional-effectiveness validation — **in progress**;
-- commercial ROI validation — **in progress**;
-- universal expert-level equivalence;
-- autonomous investment authority; and
-- fully autonomous end-to-end live external research.
+**BLOCKED**
 
-## Public showcase boundary
+The system preserved:
 
-This repository is not the production runtime. Production runtime, formal authority records, private case evidence and proprietary professional assets are maintained separately.
+**11 material unresolved facts**
 
-Public documentation intentionally omits proprietary routing logic, handoff mechanics, internal schemas, state-machine detail and reconstruction-enabling implementation.
+instead of forcing a premature investment conclusion.
 
-- [Architecture](ARCHITECTURE.md)
-- [Reliability](RELIABILITY.md)
-- [Models](MODELS.md)
-- [Public-safe case](CASES.md)
-- [Development](DEVELOPMENT.md)
+It decomposed the seller thesis, prioritized diligence and connected missing evidence to possible actions such as continue, reprice, restructure, reopen or decline.
 
----
+See CASES.md.
 
-**Have a live real-estate decision to test? Bring the question and available project materials for a bounded pilot.**
+## How to start
+
+**1. Bring the real decision.**  
+Example: Should we keep pursuing this acquisition?
+
+**2. Upload the materials you already have.**  
+OM, financials, operating data, financing assumptions, plans, legal or market materials.
+
+**3. The system organizes the professional work.**  
+It identifies what is known, what is missing, which expertise matters and which analysis should run.
+
+**4. Receive the decision package.**  
+Judgment, evidence gaps, risks, scenarios, actions and a client-readable deliverable.
+
+**5. Reopen when new evidence arrives.**  
+The case continues instead of restarting from zero.
+
+## Core discipline
+
+**Evidence before confidence.**  
+**Unknown stays unknown.**  
+**Models support judgment; they do not replace it.**  
+**A decision must lead to action.**  
+**New evidence can change the judgment.**
+
+## Public boundary
+
+This repository is a business and evidence showcase, not the production runtime.
+
+Production code, private case evidence, proprietary professional assets, internal routing and protected implementation remain separate.
+
+**Have a live acquisition, development or asset question? Bring the question and available materials for a bounded pilot.**

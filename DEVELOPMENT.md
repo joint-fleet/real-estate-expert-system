@@ -1,7 +1,15 @@
-# Development
+# How the System Is Built
 
-This repository is a public business showcase, not an engineering distribution. It presents what the system is for, the professional roles it organizes, selected public-safe evidence and explicit capability boundaries.
+The Real Estate system is developed through a human + AI operating model.
 
-Production runtime, formal authority records, private case evidence and proprietary professional assets are maintained separately. This repository intentionally does not include source code, private repository paths, internal tests, prompts, routing logic, handoff contracts, schemas, state-machine detail or reconstruction-enabling implementation.
+AI agents perform substantial research, coding, testing and implementation work.
 
-The product direction is practical: help clients submit real commercial questions and materials, then receive a professional, client-readable decision package without needing to learn the underlying technology.
+Human work concentrates on real-estate judgment, system design, commercial logic, verification, failure analysis and deciding what becomes accepted capability.
+
+The development rule is the same as the product rule:
+
+**claim → evidence → verification → judgment → action**
+
+The objective is not to maximize AI autonomy.
+
+The objective is to create more professional decision capacity per unit of human attention.

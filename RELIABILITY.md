@@ -1,11 +1,29 @@
-# Reliability
+# Core Discipline
 
-Reliable commercial judgment requires more than a plausible-looking answer. The public commitment is to make material uncertainty visible, distinguish supported analysis from unresolved questions, and avoid presenting incomplete work as a final investment conclusion.
+Reliable real-estate judgment requires more than a professional-looking answer.
 
-In real-case execution, the system has established a formal controlled runtime, long-session workflow, dynamic professional participation, evidence-gap tracking, institutional-style decision packages and client-readable PDF generation.
+## Evidence before confidence
 
-These established operating capabilities do not establish independent professional effectiveness, commercial ROI, universal expert-level equivalence, autonomous investment authority, or fully autonomous end-to-end live external research.
+A conclusion should be supported by the evidence actually available.
 
-Independent professional-effectiveness validation is **in progress**. Commercial ROI validation is **in progress**.
+## Unknown stays unknown
 
-The public showcase does not expose the proprietary controls behind these boundaries. Production runtime, formal authority records, private case evidence and proprietary professional assets are maintained separately.
+Missing facts remain visible instead of being filled in for narrative completeness.
+
+## Models support judgment
+
+A correct calculation can still support a bad decision when assumptions or evidence are weak.
+
+## Stop unsupported work
+
+If the inputs are not decision-grade, the system can block or defer analysis rather than force completion.
+
+## Judgment must lead to action
+
+The output should explain what happens next, what remains unresolved and what evidence would change the decision.
+
+## New evidence can reopen the case
+
+The system is designed for decisions that evolve over time rather than one-off static reports.
+
+Engineering verification, professional effectiveness and commercial ROI are separate questions and require separate evidence.
