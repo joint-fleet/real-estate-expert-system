@@ -1,19 +1,39 @@
-# Architecture
+# Real Estate System Architecture
 
-## A professional-team model for real estate decisions
+The system is organized around the real decision, not around a fixed list of agents.
 
-The system turns a client's commercial question and materials into coordinated professional work and a unified decision package. It is designed for the familiar reality that a serious property decision can require more than one discipline.
+The public operating pattern is:
 
-At a public level, the work moves from the business question to relevant professional analysis, decision-relevant evidence and scenarios, and finally an integrated client deliverable. The outcome emphasizes the decision, its rationale, material uncertainty, next diligence and available options.
+**project materials → evidence → decision diagnosis → relevant professional work → models and gaps → judgment → next actions → new evidence**
 
-The public model includes nine professional perspectives: investment leadership; underwriting and model strategy; valuation and financial modeling; finance and credit; development, land and cost; market and commercial strategy; legal, regulatory and policy; asset and hotel operations; and senior-management judgment.
+## Dynamic professional scope
 
-## What this architecture is for
+A serious property decision may need investment, valuation, finance, market, legal, development, cost, operations or senior-management judgment.
 
-It helps clients move from fragmented material toward a readable decision package while keeping material uncertainty visible. It can support acquisition screening, feasibility, hold/sell/refinance choices, operating-asset review, diligence and custom professional workflows.
+Not every capability should run on every case.
 
-This repository is not the production runtime. Production runtime, formal authority records, private case evidence and proprietary professional assets are maintained separately.
+The system is designed to bring in the work the current decision actually requires.
 
-Public documentation intentionally omits proprietary routing logic, handoff mechanics, internal schemas, state-machine detail and reconstruction-enabling implementation.
+## Evidence and models
 
-The architecture should therefore be read as a business and professional-service overview, not as technical documentation for reconstructing the underlying system.
+Evidence, assumptions and unresolved gaps remain distinct.
+
+Models are used where they improve the decision, but a model should not run merely because it exists.
+
+## Decision synthesis
+
+Separate workstreams are brought into one decision state rather than returned as disconnected reports.
+
+The result may be proceed, conditional proceed, decline, more diligence required, or another bounded state appropriate to the case.
+
+## Action and reopen
+
+The decision package should explain what happens next, what remains blocked and what evidence would change the result.
+
+When material evidence changes, the case can reopen.
+
+## Human + AI
+
+The system is intended to reduce repetitive professional work and coordination so human attention can move toward higher-value judgment, negotiation, exception handling and final responsibility.
+
+Protected production implementation is maintained separately from this public architecture.
