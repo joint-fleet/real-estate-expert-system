@@ -1,9 +1,26 @@
 # Models and Scenarios
 
-Quantitative analysis can support a real estate decision when the commercial question and available inputs make it appropriate. Depending on the assignment, a decision package may include valuation, cash-flow, financing, development, operating, sensitivity or scenario analysis.
+Quantitative analysis is useful when it improves the real-estate decision.
 
-Models and scenarios are inputs to professional judgment, not substitutes for it. A calculation does not by itself establish that assumptions, market conditions, legal context or commercial conclusions are correct.
+Possible work includes:
 
-This public showcase does not publish model code, internal model inventories, execution interfaces, schemas, prompts or implementation details. Those proprietary assets are maintained separately.
+- valuation;
+- property cash flow;
+- debt and refinance;
+- development economics;
+- operating scenarios;
+- sensitivity analysis;
+- break-even analysis;
+- hold / sell comparisons.
 
-Independent professional-effectiveness validation is **in progress**, and commercial ROI validation is **in progress**.
+The sequence is:
+
+**evidence → model inputs → calculation → scenarios → professional interpretation → judgment → action**
+
+A model is not the decision.
+
+A DCF does not prove the discount rate is right. A development model does not prove entitlement certainty. A hotel model does not prove the operating thesis.
+
+The system therefore treats model selection and input quality as part of the decision process.
+
+Protected model code and internal execution logic remain outside this public showcase.
